@@ -1,0 +1,17 @@
+/Applications/code/ProductManagerAzureLogin/src/main/java/net/codejava/CustomADOAuth2UserService.java
+/Applications/code/ProductManagerAzureLogin/src/main/java/net/codejava/User.java
+/Applications/code/ProductManagerAzureLogin/src/main/java/net/codejava/ProductRepository.java
+/Applications/code/ProductManagerAzureLogin/src/main/java/net/codejava/CustomOAuth2UserService.java
+/Applications/code/ProductManagerAzureLogin/src/main/java/net/codejava/UserService.java
+/Applications/code/ProductManagerAzureLogin/src/main/java/net/codejava/AppController.java
+/Applications/code/ProductManagerAzureLogin/src/main/java/net/codejava/UserDetailsServiceImpl.java
+/Applications/code/ProductManagerAzureLogin/src/main/java/net/codejava/Role.java
+/Applications/code/ProductManagerAzureLogin/src/main/java/net/codejava/Provider.java
+/Applications/code/ProductManagerAzureLogin/src/main/java/net/codejava/UserRepository.java
+/Applications/code/ProductManagerAzureLogin/src/main/java/net/codejava/Product.java
+/Applications/code/ProductManagerAzureLogin/src/main/java/net/codejava/ProductManagerApplication.java
+/Applications/code/ProductManagerAzureLogin/src/main/java/net/codejava/MyUserDetails.java
+/Applications/code/ProductManagerAzureLogin/src/main/java/net/codejava/ProductService.java
+/Applications/code/ProductManagerAzureLogin/src/main/java/net/codejava/WebSecurityConfig.java
+/Applications/code/ProductManagerAzureLogin/src/main/java/net/codejava/MvcConfig.java
+/Applications/code/ProductManagerAzureLogin/src/main/java/net/codejava/CustomOAuth2User.java

@@ -1,0 +1,32 @@
+azure:
+  activedirectory:
+    tenant-id: 9fc269f4-04c3-461f-b128-45a12b9f4e03
+    user-group:
+      allowed-groups: ...
+server:
+  port: 8090
+spring:
+  datasource:
+    password:
+    url: jdbc:mysql://localhost:3306/sales?serverTimezone=UTC
+    username: root
+  jpa:
+    hibernate:
+      ddl-auto: none
+
+  security:
+    oauth2:
+      client:
+        registration:
+         google:
+          clientId: 906342347441-55krhplkfa2v2iv3rldf00n0ar6utvkj.apps.googleusercontent.com
+          clientSecret: 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
+          scope:
+           - email
+           - profile
+         azure:
+           client-id: 56d4c6c0-566c-4d5d-a585-901a0b9bb0dc
+           client-secret: XUv7Q~eJ9HBSbP0wiPJJ7uDPJ1bckzbhtMOIU
+           activedirectory:
+             tenant-id: 9fc269f4-04c3-461f-b128-45a12b9f4e03
+
